@@ -1,0 +1,7 @@
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\bin\Release\QL_LAPTOP.mdf
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\bin\Release\QL_LAPTOP_log.ldf
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\bin\Release\DAL.dll.config
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\bin\Release\DAL.dll
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\bin\Release\DAL.pdb
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\obj\Release\DAL.dll
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\DAL\obj\Release\DAL.pdb

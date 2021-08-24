@@ -1,0 +1,9 @@
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\bin\Release\QL_LAPTOP.mdf
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\bin\Release\QL_LAPTOP_log.ldf
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\bin\Release\BLL.dll
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\bin\Release\BLL.pdb
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\bin\Release\DAL.dll
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\bin\Release\DAL.pdb
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\obj\Release\BLL.dll
+C:\Hufi\pt-ungdung\DoAn_QuanLyCuaHangLaptop_Nhom10\DoAn_QuanLyCuaHangLaptop\BLL\obj\Release\BLL.pdb
